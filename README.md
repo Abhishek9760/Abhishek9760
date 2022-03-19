@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9760&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9760" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek9760" alt="abhishek9760" /></a> </p>
-
-- 🌱 I’m currently learning **Dart and Flutter ️‍🔥**
-
 - 💬 Ask me about **anything, I'll try to answer.**
 
 - ⚡ Fun fact **I like helping people**
