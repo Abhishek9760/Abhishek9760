@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Verma</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek9760&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek9760" /> </p>
-
 - 💬 Ask me about **anything, I'll try to answer.**
 
 - ⚡ Fun fact **I like helping people**
